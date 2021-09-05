@@ -707,7 +707,7 @@ const getGlobalThis = () => {
 
 
 ## 参考资料
-- [川神的笔记：https://blog.csdn.net/u012384510/article/details/119745871](https://blog.csdn.net/u012384510/article/details/119745871)
+- [川神的笔记：https://juejin.cn/post/6994976281053888519](https://juejin.cn/post/6994976281053888519)
   
 - <span id="1"></span>[1] [BigInt：https://github.com/tc39/proposal-bigint](https://github.com/tc39/proposal-bigint) ===> [back](#$1)
 - <span id="2"></span>[2] [proposal-optional-chaining：https://github.com/tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) ===> [back](#$2)
